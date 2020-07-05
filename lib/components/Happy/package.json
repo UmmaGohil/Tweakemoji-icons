@@ -1,0 +1,5 @@
+{
+    "private": true,
+    "name": "happy",
+    "main": "./Happy.jsx"
+}
