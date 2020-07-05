@@ -21,7 +21,7 @@ function App() {
         >
           Learn React
         </a>
-        <Angry colour={'#fff'}/>
+        <Angry colour={'#fff'} size={150}/>
         <Happy colour={'red'} />
         <Sad colour={'green'} />
       </header>
