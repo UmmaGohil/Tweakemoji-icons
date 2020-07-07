@@ -1,6 +1,6 @@
 {
   "name": "twemoji-icons",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "main": "lib/index.js",
   "dependencies": {
     "@babel/cli": "^7.0.0",
