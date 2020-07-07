@@ -1,15 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Angry from './components/Angry/Angry'
-import Happy from './components/Happy/Happy'
-import Sad from './components/Sad/Sad'
+import Angry from './node_modules/components/Angry'
+import Happy from './node_modules/components/Happy'
+import Sad from './node_modules/components/Sad'
+
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
